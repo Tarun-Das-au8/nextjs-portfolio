@@ -32,10 +32,10 @@ export function AboutSection() {
 							web applications that are both visually appealing and functionality robust. My
 							expertise lies in implementing complex business logic and designing intuitive user
 							interfaces that meet the needs of modern web applications. I have a deep understanding
-							of web technologies like HTML, CSS, JavaScript and TypeScript, and I'm proficients in
-							tools such as Git, VS-Code and Figma. My ability to collaborate effectively with
-							cross-functional teams has allowed me to deliver successful projects that exceed
-							client expectations.
+							of web technologies like HTML, CSS, JavaScript and TypeScript, and I&apos;m
+							proficients in tools such as Git, VS-Code and Figma. My ability to collaborate
+							effectively with cross-functional teams has allowed me to deliver successful projects
+							that exceed client expectations.
 						</p>
 						<p className="my-6">
 							At <span className="font-bold">Solute Technolabs</span> (August 2021 - Present), I
