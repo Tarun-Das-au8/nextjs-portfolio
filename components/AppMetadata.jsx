@@ -1,9 +1,9 @@
 const author = "Tarun Kumar Das";
 const description =
 	"Frontend developer from Sambalpur, Odisha, India, who loves to develop beautiful websites, single page applications, or code from scratch using React and Next.js";
-const url = "https://my-portfolio-tarun.netlify.app/";
+const url = "https://my-portfolio-in-next.netlify.app/";
 export const AppMetadata = {
-	metadataBase: new URL("https://my-portfolio-tarun.netlify.app/"),
+	metadataBase: new URL("https://my-portfolio-in-next.netlify.app/"),
 	title: {
 		default: `Portfolio | ${author}`,
 		template: `%s | ${author}`
@@ -29,13 +29,13 @@ export const AppMetadata = {
 		siteName: `${author} | Portfolio`,
 		images: [
 			{
-				url: "https://my-portfolio-tarun.netlify.app/screenshot.webp",
+				url: "https://my-portfolio-in-next.netlify.app/screenshot.webp",
 				width: 800,
 				height: 600,
 				alt: "My personal portfolio website"
 			},
 			{
-				url: "https://my-portfolio-tarun.netlify.app/screenshot.webp",
+				url: "https://my-portfolio-in-next.netlify.app/screenshot.webp",
 				width: 1800,
 				height: 1600,
 				alt: "My personal portfolio website"

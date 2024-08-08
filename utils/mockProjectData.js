@@ -11,7 +11,7 @@ export const projectData = [
 		description:
 			"A responsive and high-performance portfolio built with Next.js and TailwindCSS. It showcases my expertise in frontend development through interactive project displays and optimized performance",
 		livePreview: "#",
-		githubLink: "#"
+		githubLink: "https://github.com/Tarun-Das-au8/nextjs-portfolio"
 	},
 	{
 		id: 2,
